@@ -1,0 +1,17 @@
+.format {
+    background-color: #C9EBFF; 
+    height: 100%;
+    margin-left: 50px ;
+}
+
+.container{
+    background-color: #6FCFC9;
+    display: flex;
+    justify-content: center;
+    width: 100vh;
+    margin-bottom: 40px;
+}
+
+.custom-border {
+    border:#0000;
+}
